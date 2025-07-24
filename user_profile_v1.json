@@ -1,0 +1,42 @@
+[
+    {
+        "user_id": "u1",
+        "email": "user1@example.com",
+        "signup_date": "2025-06-15"
+    },
+    {
+        "user_id": "u2",
+        "email": "user2@example.com",
+        "signup_date": "2025-06-16"
+    },
+    {
+        "user_id": "u3",
+        "email": "user3@example.com",
+        "signup_date": "2025-06-17"
+    },
+    {
+        "user_id": "u4",
+        "email": "user4@example.com",
+        "signup_date": "2025-06-18"
+    },
+    {
+        "user_id": "u5",
+        "email": "user5@example.com",
+        "signup_date": "2025-06-19"
+    },
+    {
+        "user_id": "u6",
+        "email": "user6@example.com",
+        "signup_date": "2025-06-20"
+    },
+    {
+        "user_id": "u7",
+        "email": "user7@example.com",
+        "signup_date": "2025-06-21"
+    },
+    {
+        "user_id": "u8",
+        "email": "user8@example.com",
+        "signup_date": "2025-06-22"
+    }
+]
