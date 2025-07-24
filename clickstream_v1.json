@@ -1,0 +1,101 @@
+[
+    {
+        "event_id": "evt001",
+
+        "user_id": "u1",
+
+        "event_type": "page_view",
+
+        "event_timestamp": "2025-07-01T10:00:00Z"
+    },
+
+    {
+        "event_id": "evt002",
+
+        "user_id": "u2",
+
+        "event_type": "click",
+
+        "event_timestamp": "2025-07-01T10:05:00Z"
+    },
+
+    {
+        "event_id": "evt003",
+
+        "user_id": "u3",
+
+        "event_type": "page_view",
+
+        "event_timestamp": "2025-07-01T10:10:00Z"
+    },
+
+    {
+        "event_id": "evt004",
+
+        "user_id": "u1",
+
+        "event_type": "scroll",
+
+        "event_timestamp": "2025-07-01T10:15:00Z"
+    },
+
+    {
+        "event_id": "evt005",
+
+        "user_id": "u4",
+
+        "event_type": "click",
+
+        "event_timestamp": "2025-07-01T10:20:00Z"
+    },
+
+    {
+        "event_id": "evt006",
+
+        "user_id": "u2",
+
+        "event_type": "form_submit",
+
+        "event_timestamp": "2025-07-01T10:25:00Z"
+    },
+
+    {
+        "event_id": "evt007",
+
+        "user_id": "u5",
+
+        "event_type": "page_view",
+
+        "event_timestamp": "2025-07-01T10:30:00Z"
+    },
+
+    {
+        "event_id": "evt008",
+
+        "user_id": "u3",
+
+        "event_type": "click",
+
+        "event_timestamp": "2025-07-01T10:35:00Z"
+    },
+
+    {
+        "event_id": "evt009",
+
+        "user_id": "u6",
+
+        "event_type": "download",
+
+        "event_timestamp": "2025-07-01T10:40:00Z"
+    },
+
+    {
+        "event_id": "evt010",
+
+        "user_id": "u1",
+
+        "event_type": "logout",
+
+        "event_timestamp": "2025-07-01T10:45:00Z"
+    }
+]
